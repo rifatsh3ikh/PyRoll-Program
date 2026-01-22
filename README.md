@@ -16,13 +16,27 @@ This project helps you quickly start simulations with PyRolL’s core functional
 
 ---
 
-## 📦 Installation
+## Installation & Usage
 
-1. **Clone the repository**
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/rifatsh3ikh/PyRoll-Program.git
+    cd PyRoll-Program
+    ```
 
-   ```bash
-   git clone https://github.com/rifatsh3ikh/PyRoll-Program.git
-   cd PyRoll-Program
+2.  **Install the required dependency:**
+    ```bash
+    pip install customtkinter
+    ```
+
+3.  **Run the application:**
+    ```bash
+    python main.py
+    ```
+
+4.  Click the "Roll Dice" button to see the result.
+
+> **Note:** The application attempts to load a `logo.ico` file for its window icon. This file is not included in the repository. The program will run without it, likely displaying a default window icon.
 
 
 ## 🤝 Contributing
