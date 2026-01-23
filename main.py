@@ -1,7 +1,6 @@
 import customtkinter as ctk
 import random
 
-# Set the appearance to dark mode for a "cool" look
 ctk.set_appearance_mode("dark")
 ctk.set_default_color_theme("green")
 
